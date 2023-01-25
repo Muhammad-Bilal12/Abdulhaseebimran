@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulhaseebimran" alt="abdulhaseebimran" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter and Dart programming**
+- 👨‍💻 I'm a full stack **Flutter Application Developer**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdul-haseeb-36a917230/](https://www.linkedin.com/in/abdul-haseeb-36a917230/)
 
